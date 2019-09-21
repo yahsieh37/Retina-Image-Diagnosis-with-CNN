@@ -1,6 +1,6 @@
 # Image-based-retina-diagnosis-with-YOLO
 
-## This is the brief introduction of each folder. More information can be found in the README.txt file in each folder.
+### This is the brief introduction of each folder. More information can be found in the README.txt file in each folder.
 
 ### darknet-master
 This folder contains the C++ code for object detection training and testing using YOLO algorithm. It also contains the files that are required to train and test on our retina image dataset. Several trained weight files on our dataset are also included. See the README.txt file in the folder for usage instructions.
