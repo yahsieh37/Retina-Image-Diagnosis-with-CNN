@@ -14,12 +14,13 @@ The Makefile and several source files that require library paths in the src fold
 ### Training
 Module: cuda/9.1, cudnn/7.0.5
 Type the following example instruction for training:
-./darknet detector train build/darknet/x64/data/set_100_2.data cfg/yolo-diaretdb5.cfg weight_100_2/yolo-diaretdb5_3000.weights -dont_show
+./darknet detector train build/darknet/x64/data/set_100_2.data cfg/yolo-diaretdb5.cfg ./darknet53.conv.74 -dont_show
 
 Files:
-yolo-diaretdb5.cfg: The network file for training, it has been modified on anchor box number and size for training retina images.
-Training image set: The images are seperated into five sets for cross-validation, there are also different image sets with different pre-processing weights. To train on different set of images, simply change the numbers in "set_100_2.data" and "weight_100_2". The first three numbers indicated the pre-processing weight, e.g. 100 indicates 1*(Original)+0*(Color)+0*(Edge) and 225 indicates 0.25*(Original)+0.25*(Color)+0.5*(Edge) (more information about pre-processing weights can be found in the paper). The last number indicates the image set for cross-validation.
-yolo-diaretdb5_3000.weights: The training weight file. Each image set has their weight file in the corresponding weight folder, e.g. weight_100_2, make sure that the weight file name is correct when changing training image set. When training, the generated new weight file will be written to corresponding weight folder.
+- yolo-diaretdb5.cfg: The network file for training, it has been modified on anchor box number and size for training retina images.
+- Training image set: The images are seperated into five sets for cross-validation, there are also different image sets with different pre-processing weights. To train on different set of images, simply change the numbers in "set_100_2.data" and "weight_100_2". The first three numbers indicated the pre-processing weight, e.g. 100 indicates 1*(Original)+0*(Color)+0*(Edge) and 225 indicates 0.25*(Original)+0.25*(Color)+0.5*(Edge) (more information about pre-processing weights can be found in the paper). The last number indicates the image set for cross-validation.
+- Before training, please upload the dataset to build/darknet/x64/data/ with name the corresponding name as mentioned above. E.g. "set_100" for image set with 1*(Original)+0*(Color)+0*(Edge).
+- darknet53.conv.74: The training weight file (download it before training). After training, each image set has their weight file in the corresponding weight folder, e.g. weight_100_2, make sure that the weight file name is correct when changing training image set. When training, the generated new weight file will be written to corresponding weight folder.
 
 ### Testing
 Module: cuda/9.1, cudnn/7.0.5
