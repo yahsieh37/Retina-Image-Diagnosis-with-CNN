@@ -1,0 +1,19 @@
+build/darknet/x64/data/set_100/image041.png build/darknet/x64/data/set_100/image042.png
+build/darknet/x64/data/set_100/image043.png
+build/darknet/x64/data/set_100/image044.png
+build/darknet/x64/data/set_100/image045.png
+build/darknet/x64/data/set_100/image046.png
+build/darknet/x64/data/set_100/image047.png
+build/darknet/x64/data/set_100/image048.png
+build/darknet/x64/data/set_100/image049.png
+build/darknet/x64/data/set_100/image050.png
+build/darknet/x64/data/set_100/image051.png
+build/darknet/x64/data/set_100/image052.png
+build/darknet/x64/data/set_100/image053.png
+build/darknet/x64/data/set_100/image054.png
+build/darknet/x64/data/set_100/image055.png
+build/darknet/x64/data/set_100/image056.png
+build/darknet/x64/data/set_100/image057.png
+build/darknet/x64/data/set_100/image058.png
+build/darknet/x64/data/set_100/image059.png
+build/darknet/x64/data/set_100/image060.png
