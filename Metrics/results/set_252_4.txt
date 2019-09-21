@@ -1,0 +1,116 @@
+Total BFLOPS 173.909 
+
+ seen 32 
+Enter Image Path: build/darknet/x64/data/set_252/image041.png: Predicted in 0.034075 seconds.
+Optic Disc: 100%	(left_x:  194   top_y:  529   width:  188   height:  179)
+Hard_Exudates: 48%	(left_x:  867   top_y:  471   width:   34   height:   54)
+Enter Image Path: build/darknet/x64/data/set_252/image042.png: Predicted in 0.033986 seconds.
+Optic Disc: 100%	(left_x:  226   top_y:  357   width:  190   height:  188)
+Enter Image Path: build/darknet/x64/data/set_252/image043.png: Predicted in 0.033915 seconds.
+Haemorrhages: 100%	(left_x:  232   top_y:  598   width:   54   height:   58)
+Hard_Exudates: 91%	(left_x:  592   top_y:  589   width:   34   height:   59)
+Optic Disc: 100%	(left_x: 1057   top_y:  518   width:  180   height:  163)
+Enter Image Path: build/darknet/x64/data/set_252/image044.png: Predicted in 0.033945 seconds.
+Optic Disc: 100%	(left_x:  995   top_y:  488   width:  170   height:  153)
+Enter Image Path: build/darknet/x64/data/set_252/image045.png: Predicted in 0.033893 seconds.
+Optic Disc: 100%	(left_x:  195   top_y:  385   width:  175   height:  181)
+Enter Image Path: build/darknet/x64/data/set_252/image046.png: Predicted in 0.033994 seconds.
+Microaneurysms: 26%	(left_x:  224   top_y:  539   width:   23   height:   49)
+Optic Disc: 100%	(left_x: 1102   top_y:  493   width:  144   height:  180)
+Enter Image Path: build/darknet/x64/data/set_252/image047.png: Predicted in 0.034025 seconds.
+Haemorrhages: 33%	(left_x:   47   top_y:  517   width:   23   height:   31)
+Hard_Exudates: 63%	(left_x:   77   top_y:  505   width:  182   height:  187)
+Hard_Exudates: 27%	(left_x:   79   top_y:  506   width:   33   height:   47)
+Haemorrhages: 34%	(left_x:  155   top_y:  530   width:   39   height:   35)
+Hard_Exudates: 49%	(left_x:  228   top_y:  650   width:  166   height:  106)
+Microaneurysms: 89%	(left_x:  261   top_y:  539   width:   19   height:   26)
+Microaneurysms: 91%	(left_x:  411   top_y:  428   width:   20   height:   17)
+Haemorrhages: 53%	(left_x:  502   top_y:  755   width:   29   height:   45)
+Haemorrhages: 26%	(left_x:  522   top_y:  133   width:   73   height:   44)
+Hard_Exudates: 92%	(left_x:  546   top_y:  549   width:  129   height:  126)
+Microaneurysms: 93%	(left_x:  615   top_y:  518   width:   18   height:   21)
+Haemorrhages: 96%	(left_x:  686   top_y:  562   width:   35   height:   36)
+Hard_Exudates: 84%	(left_x:  746   top_y:  295   width:  139   height:  100)
+Optic Disc: 100%	(left_x:  943   top_y:  470   width:  169   height:  166)
+Hard_Exudates: 78%	(left_x: 1303   top_y:  460   width:   28   height:   38)
+Enter Image Path: build/darknet/x64/data/set_252/image048.png: Predicted in 0.033945 seconds.
+Optic Disc: 100%	(left_x:  267   top_y:  509   width:  165   height:  200)
+Haemorrhages: 92%	(left_x:  479   top_y:  452   width:  134   height:  105)
+Hard_Exudates: 26%	(left_x:  482   top_y:  590   width:   37   height:   56)
+Haemorrhages: 50%	(left_x:  527   top_y:  665   width:   36   height:   40)
+Hard_Exudates: 92%	(left_x:  654   top_y:  520   width:  101   height:  127)
+Haemorrhages: 100%	(left_x:  698   top_y:   31   width:  142   height:  113)
+Microaneurysms: 42%	(left_x:  729   top_y: 1101   width:   19   height:   32)
+Haemorrhages: 33%	(left_x:  904   top_y:   37   width:   33   height:   45)
+Haemorrhages: 66%	(left_x: 1042   top_y:  630   width:   96   height:   81)
+Microaneurysms: 65%	(left_x: 1077   top_y:  741   width:   13   height:   22)
+Haemorrhages: 27%	(left_x: 1078   top_y:  165   width:   60   height:   40)
+Enter Image Path: build/darknet/x64/data/set_252/image049.png: Predicted in 0.034062 seconds.
+Haemorrhages: 53%	(left_x:  181   top_y:  650   width:   48   height:   52)
+Haemorrhages: 61%	(left_x:  226   top_y:  970   width:   49   height:   40)
+Microaneurysms: 65%	(left_x:  242   top_y:  257   width:   14   height:   19)
+Hard_Exudates: 37%	(left_x:  266   top_y:  632   width:  145   height:   81)
+Microaneurysms: 35%	(left_x:  350   top_y:  756   width:   13   height:   27)
+Haemorrhages: 98%	(left_x:  352   top_y:  774   width:   51   height:   62)
+Hard_Exudates: 93%	(left_x:  380   top_y:  655   width:   39   height:   49)
+Hard_Exudates: 96%	(left_x:  622   top_y:  398   width:   27   height:   70)
+Optic Disc: 100%	(left_x:  986   top_y:  491   width:  170   height:  154)
+Haemorrhages: 49%	(left_x: 1323   top_y:  777   width:   52   height:   48)
+Enter Image Path: build/darknet/x64/data/set_252/image050.png: Predicted in 0.034155 seconds.
+Optic Disc: 100%	(left_x: 1092   top_y:  514   width:  176   height:  155)
+Enter Image Path: build/darknet/x64/data/set_252/image051.png: Predicted in 0.034092 seconds.
+Optic Disc: 100%	(left_x:  285   top_y:  590   width:  163   height:  190)
+Enter Image Path: build/darknet/x64/data/set_252/image052.png: Predicted in 0.034053 seconds.
+Haemorrhages: 47%	(left_x:  270   top_y:  242   width:   37   height:   29)
+Optic Disc: 100%	(left_x: 1050   top_y:  493   width:  188   height:  216)
+Enter Image Path: build/darknet/x64/data/set_252/image053.png: Predicted in 0.033934 seconds.
+Optic Disc: 100%	(left_x:  293   top_y:  496   width:  163   height:  193)
+Microaneurysms: 40%	(left_x:  467   top_y:  802   width:   16   height:   31)
+Enter Image Path: build/darknet/x64/data/set_252/image054.png: Predicted in 0.034051 seconds.
+Hard_Exudates: 93%	(left_x:  198   top_y:  467   width:  170   height:  333)
+Hard_Exudates: 93%	(left_x:  249   top_y:  264   width:   84   height:  101)
+Haemorrhages: 88%	(left_x:  260   top_y:  549   width:   36   height:   42)
+Haemorrhages: 74%	(left_x:  262   top_y:  417   width:   44   height:   57)
+Hard_Exudates: 93%	(left_x:  393   top_y:  767   width:   87   height:  128)
+Microaneurysms: 83%	(left_x:  413   top_y:  382   width:   21   height:   20)
+Hard_Exudates: 70%	(left_x:  511   top_y:  490   width:   60   height:   60)
+Haemorrhages: 86%	(left_x:  840   top_y:  802   width:   28   height:   43)
+Optic Disc: 100%	(left_x:  939   top_y:  457   width:  180   height:  221)
+Haemorrhages: 56%	(left_x:  941   top_y:   17   width:   24   height:   49)
+Haemorrhages: 40%	(left_x:  957   top_y:   24   width:   28   height:   47)
+Enter Image Path: build/darknet/x64/data/set_252/image055.png: Predicted in 0.034109 seconds.
+Optic Disc: 100%	(left_x:  290   top_y:  466   width:  158   height:  175)
+Hard_Exudates: 58%	(left_x:  679   top_y:  847   width:   39   height:   41)
+Microaneurysms: 44%	(left_x:  754   top_y:  812   width:   10   height:   20)
+Microaneurysms: 70%	(left_x:  780   top_y:  891   width:   12   height:   18)
+Hard_Exudates: 63%	(left_x:  814   top_y:  979   width:   19   height:   22)
+Soft_Exudates: 56%	(left_x:  866   top_y: 1070   width:   39   height:   65)
+Microaneurysms: 87%	(left_x: 1013   top_y:  879   width:   17   height:   26)
+Enter Image Path: build/darknet/x64/data/set_252/image056.png: Predicted in 0.034018 seconds.
+Haemorrhages: 29%	(left_x:  403   top_y:  839   width:   36   height:   46)
+Microaneurysms: 98%	(left_x:  411   top_y:  560   width:   23   height:   23)
+Hard_Exudates: 30%	(left_x:  529   top_y:  879   width:  174   height:   93)
+Microaneurysms: 83%	(left_x:  629   top_y:  288   width:   37   height:   33)
+Hard_Exudates: 100%	(left_x:  650   top_y:  515   width:  172   height:  108)
+Haemorrhages: 97%	(left_x:  675   top_y:  456   width:   45   height:   63)
+Haemorrhages: 99%	(left_x:  746   top_y:  810   width:   31   height:   41)
+Haemorrhages: 89%	(left_x:  765   top_y:  209   width:   64   height:   55)
+Hard_Exudates: 97%	(left_x:  787   top_y:  725   width:   38   height:   78)
+Hard_Exudates: 68%	(left_x:  824   top_y:  444   width:   72   height:   91)
+Hard_Exudates: 35%	(left_x:  909   top_y:  597   width:   49   height:   75)
+Haemorrhages: 97%	(left_x:  987   top_y:  758   width:   32   height:   35)
+Microaneurysms: 90%	(left_x: 1097   top_y:  856   width:   17   height:   22)
+Optic Disc: 100%	(left_x: 1136   top_y:  559   width:  167   height:  166)
+Enter Image Path: build/darknet/x64/data/set_252/image057.png: Predicted in 0.034031 seconds.
+Hard_Exudates: 60%	(left_x:  571   top_y:  264   width:   73   height:   87)
+Haemorrhages: 84%	(left_x:  595   top_y:  138   width:   39   height:   46)
+Haemorrhages: 88%	(left_x:  886   top_y: 1021   width:   40   height:   57)
+Hard_Exudates: 38%	(left_x:  974   top_y:  167   width:   35   height:   38)
+Optic Disc: 100%	(left_x: 1092   top_y:  420   width:  167   height:  176)
+Enter Image Path: build/darknet/x64/data/set_252/image058.png: Predicted in 0.034049 seconds.
+Optic Disc: 100%	(left_x:  939   top_y:  472   width:  255   height:  160)
+Enter Image Path: build/darknet/x64/data/set_252/image059.png: Predicted in 0.034030 seconds.
+Optic Disc: 100%	(left_x:  302   top_y:  496   width:  199   height:  215)
+Enter Image Path: build/darknet/x64/data/set_252/image060.png: Predicted in 0.034024 seconds.
+Optic Disc: 100%	(left_x:  278   top_y:  449   width:  190   height:  212)
+Enter Image Path: 

@@ -1,0 +1,164 @@
+img:  041
+Area_Accuracy of optic:  0.8543259904656614
+Area_Precision of optic:  0.8772328174910918
+Area_Accuracy:  0.2823353374227712
+Area_Precision:  0.4774664763999132
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  042
+Area_Accuracy of optic:  0.8318708042932539
+Area_Precision of optic:  0.9196168470448468
+Area_Accuracy:  0.2772902680977513
+Area_Precision:  0.4598084235224234
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  043
+Area_Accuracy of optic:  0.829553156614249
+Area_Precision of optic:  1.0
+Area_Accuracy:  0.4895704511281775
+Area_Precision:  0.7961525822649573
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  044
+Area_Accuracy of optic:  0.6383662361621294
+Area_Precision of optic:  1.0
+Area_Accuracy:  0.6383662361621294
+Area_Precision:  1.0
+Case_Accuracy:  1.0
+Case_Precision:  1.0
+
+img:  045
+Area_Accuracy of optic:  0.9110637558340605
+Area_Precision of optic:  0.9393547915102036
+Area_Accuracy:  0.45553187791703026
+Area_Precision:  0.4696773957551018
+Case_Accuracy:  1.0
+Case_Precision:  1.0
+
+img:  046
+Area_Accuracy of optic:  0.8414622439024388
+Area_Precision of optic:  0.8414622439024388
+Area_Accuracy:  0.4207311219512194
+Area_Precision:  0.8414622439024388
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  047
+Area_Accuracy of optic:  0.847437491720294
+Area_Precision of optic:  0.9645813333333333
+Area_Accuracy:  0.3569956951077663
+Area_Precision:  0.8088084573879865
+Case_Accuracy:  0.6
+Case_Precision:  1.0
+
+img:  048
+Area_Accuracy of optic:  0.8118711976522617
+Area_Precision of optic:  0.8118711976522617
+Area_Accuracy:  0.3659359687526508
+Area_Precision:  0.6295207783859794
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  049
+Area_Accuracy of optic:  0.7660926079980801
+Area_Precision of optic:  0.9538690476190477
+Area_Accuracy:  0.3770452193003713
+Area_Precision:  0.6445352592382322
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  050
+Area_Accuracy of optic:  0.7122869379055324
+Area_Precision of optic:  1.0
+Area_Accuracy:  0.7122869379055324
+Area_Precision:  1.0
+Case_Accuracy:  1.0
+Case_Precision:  1.0
+
+img:  051
+Area_Accuracy of optic:  0.8810244363134704
+Area_Precision of optic:  0.9347301080596679
+Area_Accuracy:  0.29367481210449015
+Area_Precision:  0.46736505402983397
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  052
+Area_Accuracy of optic:  0.9410112842159418
+Area_Precision of optic:  0.9658301812964651
+Area_Accuracy:  0.4705056421079709
+Area_Precision:  0.9658301812964651
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  053
+Area_Accuracy of optic:  0.9239734596186445
+Area_Precision of optic:  0.9999961980198026
+Area_Accuracy:  0.46198672980932226
+Area_Precision:  0.9999961980198026
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  054
+Area_Accuracy of optic:  0.9524003179650236
+Area_Precision of optic:  0.9524003179650236
+Area_Accuracy:  0.39645231412438053
+Area_Precision:  0.5598820577088498
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  055
+Area_Accuracy of optic:  0.8658736003543288
+Area_Precision of optic:  0.8947995769131736
+Area_Accuracy:  0.17317472007086576
+Area_Precision:  0.2236998942282934
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  056
+Area_Accuracy of optic:  0.8961197265740835
+Area_Precision of optic:  0.9405798394348306
+Area_Accuracy:  0.30687867650732625
+Area_Precision:  0.570954389177405
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  057
+Area_Accuracy of optic:  0.9205493217601419
+Area_Precision of optic:  0.9763513513513513
+Area_Accuracy:  0.4397391657607064
+Area_Precision:  0.8457923939685204
+Case_Accuracy:  0.6
+Case_Precision:  1.0
+
+img:  058
+Area_Accuracy of optic:  0.8184404014779016
+Area_Precision of optic:  0.8311246752734393
+Area_Accuracy:  0.27281346715930055
+Area_Precision:  0.8311246752734393
+Case_Accuracy:  0.6
+Case_Precision:  1.0
+
+img:  059
+Area_Accuracy of optic:  0.8862306445901794
+Area_Precision of optic:  0.9592601481481484
+Area_Accuracy:  0.4431153222950897
+Area_Precision:  0.9592601481481484
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+img:  060
+Area_Accuracy of optic:  0.8902663127722346
+Area_Precision of optic:  0.9566474088669953
+Area_Accuracy:  0.4451331563861173
+Area_Precision:  0.9566474088669953
+Case_Accuracy:  0.8
+Case_Precision:  1.0
+
+Average Area_Accuracy:  0.4039781560035485
+Average Area_Precision:  0.7253992008787393
+Average Case_Accuracy:  0.8000000000000002
+Average Case_Precision:  1.0

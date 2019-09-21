@@ -1,0 +1,41 @@
+set_100:
+Average Area_Accuracy:  0.4033291634331081
+Average Area_Precision:  0.7183216460042644
+Average Case_Accuracy:  0.76
+Average Case_Precision:  0.975
+
+set_010:
+Average Area_Accuracy:  0.3970951845930655
+Average Area_Precision:  0.7678475432082273
+Average Case_Accuracy:  0.78
+Average Case_Precision:  1.0
+
+set_001:
+Average Area_Accuracy:  0.393384485670805
+Average Area_Precision:  0.8218026231040788
+Average Case_Accuracy:  0.6900000000000001
+Average Case_Precision:  0.975
+
+set_522:
+Average Area_Accuracy:  0.4007308569318903
+Average Area_Precision:  0.7864070050540412
+Average Case_Accuracy:  0.7800000000000001
+Average Case_Precision:  1.0
+
+set_252:
+Average Area_Accuracy:  0.3900668479942259
+Average Area_Precision:  0.7214104604016167
+Average Case_Accuracy:  0.78
+Average Case_Precision:  0.975
+
+set_225:
+Average Area_Accuracy:  0.4039781560035485
+Average Area_Precision:  0.7253992008787393
+Average Case_Accuracy:  0.8000000000000002
+Average Case_Precision:  1.0
+
+set_333:
+Average Area_Accuracy:  0.4042728592666749
+Average Area_Precision:  0.8189162991046409
+Average Case_Accuracy:  0.7500000000000001
+Average Case_Precision:  1.0
