@@ -1,6 +1,6 @@
 ##
-The YOLO code is downloaded from this link: git@github.com:AlexeyAB/darknet.git
-A complete instruction about using the code can be found here: https://github.com/AlexeyAB/darknet
+The codes for YOLO is downloaded from this [link](git@github.com:AlexeyAB/darknet.git).
+A complete instruction about using the code can be found [here](https://github.com/AlexeyAB/darknet).
 
 ##
 We run the code on PACE, an advanced computing environment at Georgia Tech with Linux system.
