@@ -1,5 +1,5 @@
 ##
-The codes for YOLO is downloaded from this link: git@github.com:AlexeyAB/darknet.git
+The codes for YOLO is downloaded from git@github.com:AlexeyAB/darknet.git
 
 A complete instruction about using the code can be found [here](https://github.com/AlexeyAB/darknet).
 
